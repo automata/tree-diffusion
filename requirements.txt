@@ -9,7 +9,7 @@ rich==13.7.1
 scipy==1.13.0
 skia_python==87.5
 timm==1.0.3
-torch==2.1.2+cu121
+#torch==2.1.2+cu121
 tqdm==4.66.1
 wandb==0.16.4
 iceberg-dsl @ git+https://github.com/revalo/iceberg.git@db446c1ed
