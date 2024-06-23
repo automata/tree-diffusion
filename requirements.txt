@@ -4,7 +4,7 @@ dm_tree==0.1.8
 lark==1.1.9
 lz4==4.3.3
 numpy==1.26.4
-pathos==0.3.3.dev0
+pathos==0.3.2
 rich==13.7.1
 scipy==1.13.0
 skia_python==87.5
